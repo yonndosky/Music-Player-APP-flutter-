@@ -1,6 +1,6 @@
 ## 該應用程式皆使用Flutter官方物件，而參考套件為<font size="5">[**audioplayers**](https://pub.dev/packages/audioplayers)</font>,<font size="5">[**file_picker**](https://pub.dev/packages/file_picker)</font>,<font size="5">[**shared_preferences**](https://pub.dev/packages/shared_preferences)</font>與<font size="5">[**path_provider**](https://pub.dev/packages/path_provider)</font>，以上。
 
-![read](Home.jpg)
+![read](./picture/Home.jpg)
 
 <br>
 
@@ -8,11 +8,11 @@
 
 ### 進入應用程式，點擊<font size="5" color="#FFFF00">點擊取得資訊</font>
 
-![read](6.jpg)
+![read](./picture/6.jpg)
 
 ### 點擊<font size="5" color="#FFFF00">許可</font>
 
-![read](9.jpg)
+![read](./picture/9.jpg)
 
 <br> 
 
@@ -22,21 +22,21 @@
 
 
 
-![read](12.jpg)
+![read](./picture/12.jpg)
 
-![read](11.jpg)
+![read](./picture/11.jpg)
 
-![read](10.jpg)
+![read](./picture/10.jpg)
 
 <br> 
 
 ## 點選大資料夾後，會再次詢問是否讓音樂撥放器使用【大資料夾名稱】，請點擊許可。
 
-![read](13.jpg)
+![read](./picture/13.jpg)
 
 ## 大功告成!!! 之後進來應用程式就不用再使用重複操作，不過之後如果有加入新歌到手機裡面，要到這個應用程式的設定更新，之後可能會釋出自動更新的版本，請大家拭目以待(有時間的話啦QQ)。
 
-![read](14.jpg)
+![read](./picture/14.jpg)
 
 ## 在音樂檔案這裡我們會看到我們音樂名稱以及左邊的撥放按鈕和右邊的新增安紐，請大家要直接撥放音樂的話點選左邊的撥放鍵，如果大家覺得這樣操作比較不舒服，想要直接點選音樂名稱撥放，也可以向我反映。
 
@@ -62,26 +62,26 @@
 ## 第二個按鈕就是撥放與暫停，而第三個按鈕就是停止，而暫停和停止的不同在於，暫停是停在目前播的位置，而停止則是讓音樂回到原點並且暫停。
 
 
-![read](15.jpg)
+![read](./picture/15.jpg)
 
 # 資料夾
 
 ## 接下來就是介紹資料夾的部分在這裡是以剛剛的資料夾分類當作每一個按鍵，而按鍵點選之後進去 操作就跟在音樂檔案中的操作一樣，唯一不同的點是，點選直接撥放，音樂駐列中只會有該資料夾的音樂，意思就是點選直接撥放，駐列中就會有這個專輯^^
 
-![read](16.jpg)
+![read](./picture/16.jpg)
 
 # 音樂駐列
 ## 在這裡上方會先看到 清除目前駐列，點選後整個駐列就會清除，而第一首(正在播的音樂)播完後就會停止撥放。
 ## 中間則會顯示 2~N個音樂駐列右方按鈕則是將該音樂清出駐列，而對某一首音樂常壓則是可以讓他延後撥放或是提前撥放。
 ## 下方則是顯示目前撥放的歌或是排在第一位的歌曲的詳細內容。
 
-![read](17.jpg)
+![read](./picture/17.jpg)
 
-![read](18.jpg)
+![read](./picture/18.jpg)
 
 ## 這樣子就完成交換了!
 
-![read](19.jpg)
+![read](./picture/19.jpg)
 
 # 設定
 
@@ -91,7 +91,7 @@
 
 ## 刪除該程式本地檔案的意思就是刪除這個應用程式的檔案，不會影響到手機內的其他檔案，就像是刪除這個應用程式的快取而已。
 
-![read](24.jpg)
+![read](./picture/24.jpg)
 
 ## 最後因為我們的程式支援背景撥放，所以在音樂撥放時，通知欄內會有我們應用程式的常駐通知，點擊該通知就可以回到應用程式，而在音樂撥放器沒有音樂撥放時，則不會出現，應用程式也不會背景運作。
 
