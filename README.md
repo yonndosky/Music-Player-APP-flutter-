@@ -1,3 +1,4 @@
+# 因為Android版本更新的關係，這個應用程式已經無法使用了!
 ## 該應用程式皆使用Flutter官方物件，而參考套件為<font size="5">[**audioplayers**](https://pub.dev/packages/audioplayers)</font>,<font size="5">[**file_picker**](https://pub.dev/packages/file_picker)</font>,<font size="5">[**shared_preferences**](https://pub.dev/packages/shared_preferences)</font>與<font size="5">[**path_provider**](https://pub.dev/packages/path_provider)</font>，以上。
 
 ![read](./picture/Home.jpg)
